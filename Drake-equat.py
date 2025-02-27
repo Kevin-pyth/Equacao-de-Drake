@@ -1,5 +1,4 @@
 #   A equação de Drake é um cálculo bastante hipotético.
-#
 
 print ("\n\nA equação de Drake etipula a quantidade provável de civilizações na nossa galáxia conforme as informações atuais. \n\n")
 
